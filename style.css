@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  text-align: center;
+  margin-top: 34px;
+}
+
+.calc {
+  margin: 15px 2px;
+}
+
+.calc input {
+  max-width: 250px;
+  margin: 5px;
+  padding: 5px;
+  width: 100%;
+}
+
+button {
+  font-size: 25px;
+  margin: 6px;
+  padding: 6px;
+  width: 50px;
+}
